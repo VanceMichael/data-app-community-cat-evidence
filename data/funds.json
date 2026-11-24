@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f1",
+    "kind": "首次绝育",
+    "stable_days": 0,
+    "unit_cents": 15000,
+    "paid_adjustment": "重复凭证需退回"
+  },
+  {
+    "id": "f2",
+    "kind": "首次绝育",
+    "stable_days": 0,
+    "unit_cents": 10000,
+    "paid_adjustment": "重复凭证需退回"
+  },
+  {
+    "id": "f3",
+    "kind": "稳定领养",
+    "stable_days": 30,
+    "unit_cents": 20000,
+    "paid_adjustment": "稳定期前退养不结"
+  },
+  {
+    "id": "f4",
+    "kind": "持续照护",
+    "stable_days": 0,
+    "unit_cents": 5000,
+    "paid_adjustment": "仅核实新增费用"
+  }
+]

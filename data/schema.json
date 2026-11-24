@@ -1,0 +1,233 @@
+{
+  "format_version": 1,
+  "synthetic": true,
+  "tables": {
+    "identities": {
+      "description": "候选身份不预置唯一答案",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "标识"
+        },
+        "area": {
+          "type": "string",
+          "description": "常见区域"
+        },
+        "confirmed": {
+          "type": "boolean",
+          "description": "独立身份已确认"
+        }
+      },
+      "refs": {}
+    },
+    "identity_links": {
+      "description": "人工候选及后来确认",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "关系"
+        },
+        "left": {
+          "type": "string",
+          "description": "标识"
+        },
+        "right": {
+          "type": "string",
+          "description": "标识"
+        },
+        "state": {
+          "type": "string",
+          "description": "候选或确认"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        }
+      },
+      "refs": {
+        "left": "identities.id",
+        "right": "identities.id"
+      }
+    },
+    "efforts": {
+      "description": "固定巡看窗口和实际努力分钟",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "窗口"
+        },
+        "area": {
+          "type": "string",
+          "description": "区域"
+        },
+        "day": {
+          "type": "integer",
+          "description": "日序"
+        },
+        "minutes": {
+          "type": "integer",
+          "description": "巡看分钟"
+        },
+        "planned": {
+          "type": "boolean",
+          "description": "计划窗口"
+        },
+        "state": {
+          "type": "string",
+          "description": "完成或未观察"
+        }
+      },
+      "refs": {}
+    },
+    "sightings": {
+      "description": "发现记录关联努力窗口，不自带总数量",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "发现"
+        },
+        "window": {
+          "type": "string",
+          "description": "窗口"
+        },
+        "identity": {
+          "type": "string",
+          "description": "标识"
+        },
+        "count": {
+          "type": "integer",
+          "description": "同次重复照片数"
+        }
+      },
+      "refs": {
+        "window": "efforts.id",
+        "identity": "identities.id"
+      }
+    },
+    "services": {
+      "description": "真实服务事实，手术凭证仅一份",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "服务"
+        },
+        "identity": {
+          "type": "string",
+          "description": "标识"
+        },
+        "kind": {
+          "type": "string",
+          "description": "绝育或照护或领养或退养或转移"
+        },
+        "day": {
+          "type": "integer",
+          "description": "日序"
+        },
+        "cost_cents": {
+          "type": "integer",
+          "description": "成本"
+        },
+        "area": {
+          "type": "string",
+          "description": "区域"
+        },
+        "proof": {
+          "type": "string",
+          "description": "凭证"
+        }
+      },
+      "refs": {
+        "identity": "identities.id"
+      }
+    },
+    "funds": {
+      "description": "不同资助用途和稳定期",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "资助"
+        },
+        "kind": {
+          "type": "string",
+          "description": "首次绝育或持续照护或稳定领养"
+        },
+        "stable_days": {
+          "type": "integer",
+          "description": "稳定日"
+        },
+        "unit_cents": {
+          "type": "integer",
+          "description": "支持上限"
+        },
+        "paid_adjustment": {
+          "type": "string",
+          "description": "允许已付调整"
+        }
+      },
+      "refs": {}
+    },
+    "claims": {
+      "description": "真实申领和已付金额",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "申领"
+        },
+        "fund": {
+          "type": "string",
+          "description": "资助"
+        },
+        "service": {
+          "type": "string",
+          "description": "服务"
+        },
+        "paid_cents": {
+          "type": "integer",
+          "description": "已付"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        }
+      },
+      "refs": {
+        "fund": "funds.id",
+        "service": "services.id"
+      }
+    },
+    "priorities": {
+      "description": "敏感区投诉只作为现场事实，不预置效果",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "区域记录"
+        },
+        "area": {
+          "type": "string",
+          "description": "区域"
+        },
+        "sensitive": {
+          "type": "boolean",
+          "description": "敏感区域"
+        },
+        "complaints": {
+          "type": "integer",
+          "description": "独立投诉"
+        },
+        "observation_slots": {
+          "type": "integer",
+          "description": "下期观察窗口"
+        },
+        "review_slots": {
+          "type": "integer",
+          "description": "救助复核窗口"
+        },
+        "care_reserved": {
+          "type": "integer",
+          "description": "既有照护占用"
+        }
+      },
+      "refs": {}
+    }
+  }
+}

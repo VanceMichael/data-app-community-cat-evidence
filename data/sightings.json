@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "s0",
+    "window": "w0",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s1",
+    "window": "w1",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s2",
+    "window": "w2",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s3",
+    "window": "w3",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s4",
+    "window": "w4",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s5",
+    "window": "w5",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s6",
+    "window": "w6",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s7",
+    "window": "w7",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s8",
+    "window": "w8",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s9",
+    "window": "w9",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s10",
+    "window": "w10",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s11",
+    "window": "w11",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s12",
+    "window": "w12",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s13",
+    "window": "w13",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s14",
+    "window": "w14",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s15",
+    "window": "w15",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s16",
+    "window": "w16",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s17",
+    "window": "w17",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s18",
+    "window": "w18",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s19",
+    "window": "w19",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s20",
+    "window": "w20",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s21",
+    "window": "w21",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s22",
+    "window": "w22",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s23",
+    "window": "w23",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s24",
+    "window": "w24",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s25",
+    "window": "w25",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s26",
+    "window": "w26",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s27",
+    "window": "w27",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s28",
+    "window": "w28",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s29",
+    "window": "w29",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s30",
+    "window": "w30",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s31",
+    "window": "w31",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s32",
+    "window": "w32",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s33",
+    "window": "w33",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s34",
+    "window": "w34",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s35",
+    "window": "w35",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s36",
+    "window": "w36",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s37",
+    "window": "w37",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s38",
+    "window": "w38",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s39",
+    "window": "w39",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s40",
+    "window": "w40",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s41",
+    "window": "w41",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s42",
+    "window": "w0",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s43",
+    "window": "w1",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s44",
+    "window": "w2",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s45",
+    "window": "w3",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s46",
+    "window": "w4",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s47",
+    "window": "w5",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s48",
+    "window": "w6",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s49",
+    "window": "w7",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s50",
+    "window": "w8",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s51",
+    "window": "w9",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s52",
+    "window": "w10",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s53",
+    "window": "w11",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s54",
+    "window": "w12",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s55",
+    "window": "w13",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s56",
+    "window": "w14",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s57",
+    "window": "w15",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s58",
+    "window": "w16",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s59",
+    "window": "w17",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s60",
+    "window": "w18",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s61",
+    "window": "w19",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s62",
+    "window": "w20",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s63",
+    "window": "w21",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s64",
+    "window": "w22",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s65",
+    "window": "w23",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s66",
+    "window": "w24",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s67",
+    "window": "w25",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s68",
+    "window": "w26",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s69",
+    "window": "w27",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s70",
+    "window": "w28",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s71",
+    "window": "w29",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s72",
+    "window": "w30",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s73",
+    "window": "w31",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s74",
+    "window": "w32",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s75",
+    "window": "w33",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s76",
+    "window": "w34",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s77",
+    "window": "w35",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s78",
+    "window": "w36",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s79",
+    "window": "w37",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s80",
+    "window": "w38",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s81",
+    "window": "w39",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s82",
+    "window": "w40",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s83",
+    "window": "w41",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s84",
+    "window": "w0",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s85",
+    "window": "w1",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s86",
+    "window": "w2",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s87",
+    "window": "w3",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s88",
+    "window": "w4",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s89",
+    "window": "w5",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s90",
+    "window": "w6",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s91",
+    "window": "w7",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s92",
+    "window": "w8",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s93",
+    "window": "w9",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s94",
+    "window": "w10",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s95",
+    "window": "w11",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s96",
+    "window": "w12",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s97",
+    "window": "w13",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s98",
+    "window": "w14",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s99",
+    "window": "w15",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s100",
+    "window": "w16",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s101",
+    "window": "w17",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s102",
+    "window": "w18",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s103",
+    "window": "w19",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s104",
+    "window": "w20",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s105",
+    "window": "w21",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s106",
+    "window": "w22",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s107",
+    "window": "w23",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s108",
+    "window": "w24",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s109",
+    "window": "w25",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s110",
+    "window": "w26",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s111",
+    "window": "w27",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s112",
+    "window": "w28",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s113",
+    "window": "w29",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s114",
+    "window": "w30",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s115",
+    "window": "w31",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s116",
+    "window": "w32",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s117",
+    "window": "w33",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s118",
+    "window": "w34",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s119",
+    "window": "w35",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s120",
+    "window": "w36",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s121",
+    "window": "w37",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s122",
+    "window": "w38",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s123",
+    "window": "w39",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s124",
+    "window": "w40",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s125",
+    "window": "w41",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s126",
+    "window": "w0",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s127",
+    "window": "w1",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s128",
+    "window": "w2",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s129",
+    "window": "w3",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s130",
+    "window": "w4",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s131",
+    "window": "w5",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s132",
+    "window": "w6",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s133",
+    "window": "w7",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s134",
+    "window": "w8",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s135",
+    "window": "w9",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s136",
+    "window": "w10",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s137",
+    "window": "w11",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s138",
+    "window": "w12",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s139",
+    "window": "w13",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s140",
+    "window": "w14",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s141",
+    "window": "w15",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s142",
+    "window": "w16",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s143",
+    "window": "w17",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s144",
+    "window": "w18",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s145",
+    "window": "w19",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s146",
+    "window": "w20",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s147",
+    "window": "w21",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s148",
+    "window": "w22",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s149",
+    "window": "w23",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s150",
+    "window": "w24",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s151",
+    "window": "w25",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s152",
+    "window": "w26",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s153",
+    "window": "w27",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s154",
+    "window": "w28",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s155",
+    "window": "w29",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s156",
+    "window": "w30",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s157",
+    "window": "w31",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s158",
+    "window": "w32",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s159",
+    "window": "w33",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s160",
+    "window": "w34",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s161",
+    "window": "w35",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s162",
+    "window": "w36",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s163",
+    "window": "w37",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s164",
+    "window": "w38",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s165",
+    "window": "w39",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s166",
+    "window": "w40",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s167",
+    "window": "w41",
+    "identity": "cat23",
+    "count": 4
+  },
+  {
+    "id": "s168",
+    "window": "w0",
+    "identity": "cat0",
+    "count": 1
+  },
+  {
+    "id": "s169",
+    "window": "w1",
+    "identity": "cat1",
+    "count": 2
+  },
+  {
+    "id": "s170",
+    "window": "w2",
+    "identity": "cat2",
+    "count": 3
+  },
+  {
+    "id": "s171",
+    "window": "w3",
+    "identity": "cat3",
+    "count": 4
+  },
+  {
+    "id": "s172",
+    "window": "w4",
+    "identity": "cat4",
+    "count": 1
+  },
+  {
+    "id": "s173",
+    "window": "w5",
+    "identity": "cat5",
+    "count": 2
+  },
+  {
+    "id": "s174",
+    "window": "w6",
+    "identity": "cat6",
+    "count": 3
+  },
+  {
+    "id": "s175",
+    "window": "w7",
+    "identity": "cat7",
+    "count": 4
+  },
+  {
+    "id": "s176",
+    "window": "w8",
+    "identity": "cat8",
+    "count": 1
+  },
+  {
+    "id": "s177",
+    "window": "w9",
+    "identity": "cat9",
+    "count": 2
+  },
+  {
+    "id": "s178",
+    "window": "w10",
+    "identity": "cat10",
+    "count": 3
+  },
+  {
+    "id": "s179",
+    "window": "w11",
+    "identity": "cat11",
+    "count": 4
+  },
+  {
+    "id": "s180",
+    "window": "w12",
+    "identity": "cat12",
+    "count": 1
+  },
+  {
+    "id": "s181",
+    "window": "w13",
+    "identity": "cat13",
+    "count": 2
+  },
+  {
+    "id": "s182",
+    "window": "w14",
+    "identity": "cat14",
+    "count": 3
+  },
+  {
+    "id": "s183",
+    "window": "w15",
+    "identity": "cat15",
+    "count": 4
+  },
+  {
+    "id": "s184",
+    "window": "w16",
+    "identity": "cat16",
+    "count": 1
+  },
+  {
+    "id": "s185",
+    "window": "w17",
+    "identity": "cat17",
+    "count": 2
+  },
+  {
+    "id": "s186",
+    "window": "w18",
+    "identity": "cat18",
+    "count": 3
+  },
+  {
+    "id": "s187",
+    "window": "w19",
+    "identity": "cat19",
+    "count": 4
+  },
+  {
+    "id": "s188",
+    "window": "w20",
+    "identity": "cat20",
+    "count": 1
+  },
+  {
+    "id": "s189",
+    "window": "w21",
+    "identity": "cat21",
+    "count": 2
+  },
+  {
+    "id": "s190",
+    "window": "w22",
+    "identity": "cat22",
+    "count": 3
+  },
+  {
+    "id": "s191",
+    "window": "w23",
+    "identity": "cat23",
+    "count": 4
+  }
+]

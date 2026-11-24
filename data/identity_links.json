@@ -1,0 +1,23 @@
+[
+  {
+    "id": "l1",
+    "left": "cat0",
+    "right": "cat1",
+    "state": "候选",
+    "known_day": 15
+  },
+  {
+    "id": "l2",
+    "left": "cat0",
+    "right": "cat1",
+    "state": "确认",
+    "known_day": 40
+  },
+  {
+    "id": "l3",
+    "left": "cat1",
+    "right": "cat2",
+    "state": "候选",
+    "known_day": 16
+  }
+]

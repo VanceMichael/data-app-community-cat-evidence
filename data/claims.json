@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c1",
+    "fund": "f1",
+    "service": "v0",
+    "paid_cents": 15000,
+    "known_day": 20
+  },
+  {
+    "id": "c2",
+    "fund": "f2",
+    "service": "v1",
+    "paid_cents": 10000,
+    "known_day": 22
+  },
+  {
+    "id": "c3",
+    "fund": "f3",
+    "service": "adopt",
+    "paid_cents": 0,
+    "known_day": 26
+  },
+  {
+    "id": "c4",
+    "fund": "f4",
+    "service": "return",
+    "paid_cents": 0,
+    "known_day": 33
+  }
+]

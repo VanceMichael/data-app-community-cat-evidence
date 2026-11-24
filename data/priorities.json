@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a1",
+    "area": "区0",
+    "sensitive": true,
+    "complaints": 4,
+    "observation_slots": 2,
+    "review_slots": 1,
+    "care_reserved": 1
+  },
+  {
+    "id": "a2",
+    "area": "区1",
+    "sensitive": false,
+    "complaints": 1,
+    "observation_slots": 1,
+    "review_slots": 2,
+    "care_reserved": 1
+  },
+  {
+    "id": "a3",
+    "area": "区2",
+    "sensitive": true,
+    "complaints": 2,
+    "observation_slots": 2,
+    "review_slots": 1,
+    "care_reserved": 0
+  }
+]
